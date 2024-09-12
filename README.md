@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @codewith-ankit-prog
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on chai or code
+- 
+- 📫 How to reach me follow me on instagram @ankit_shaw_2909
 
-<!---
-codewith-ankit-prog/codewith-ankit-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
